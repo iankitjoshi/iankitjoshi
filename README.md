@@ -6,8 +6,8 @@
 
 <h3><i>Let's Connect !! Find Me On The Web</i></h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/iankitjoshi" target="blank"><img align="center" src="https://i1.wp.com/www.owlishcommunications.com/thewisdomzone/wp-content/uploads/LINKEDIN-LOGO-2-Animated-Pulsating.gif?resize=300%2C300&ssl=1" alt="m-sehrawat" width="80" /></a>
-<a href="https://www.facebook.com/profile.php?id=100006837825474" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="m-sehrawat" width="70" /></a>
+<a href="https://www.linkedin.com/in/iankitjoshi" target="_blank"><img align="center" src="https://i1.wp.com/www.owlishcommunications.com/thewisdomzone/wp-content/uploads/LINKEDIN-LOGO-2-Animated-Pulsating.gif?resize=300%2C300&ssl=1" alt="m-sehrawat" width="80" /></a>
+<a href="https://www.facebook.com/profile.php?id=100006837825474" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="m-sehrawat" width="70" /></a>
 
 </p>
 
